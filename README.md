@@ -1,10 +1,10 @@
-# CSCI 1103 Computer Science I Honors
+# CSCI 1102 Computer Science II
 
-### Fall 2017
+### Spring 2018
 
 ---
 
-**Meets:** Tuesdays & Thursdays 3PM - 4:15PM; Fulton Hall 415.
+**Meets:** Tuesdays & Thursdays 9AM - 10:15AM; Fulton Hall 415.
 
 **Instructor:** [Robert Muller](http://www.cs.bc.edu/~muller/)
 
@@ -12,12 +12,10 @@
 
 **Teaching Assistants:**
 
-+ John Abreu
-  + **Section**: Higgins 280 Wed 5PM
-  + **Office Hours** Fulton 160 Mon 7PM - 9PM, Fri 3PM - 5PM.
-+ Yueming Chen
-  + **Section**: Higgins 280 Wed 6PM.
-  + **Office Hours** Fulton 160 Tue 6PM - 8PM, Thu 1PM - 3PM.
++ Jacob Bennett
+  + **Office Hours** Fulton 160 TBD.
++ Shaan Bijwadia
+  + **Office Hours** Fulton 160 TBD.
 
 
 ---
@@ -30,7 +28,7 @@
 
 ## Schedule
 
-| Week | Mtng |  Topic                                    | Resources                                |
+| Week | Mtng | Topic                                    | Resources                                |
 | :--: | :--: | :--------------------------------------- | :--------------------------------------- |
 |  1   |  1   | Introduction and Overview                | [T 08/29/17](https://github.com/BC-CSCI1103/082917) |
 |      |  2   | Base types; literals & expressions; simplification & work; values; libraries | [R 08/31/17](https://github.com/BC-CSCI1103/083117) |
@@ -58,7 +56,7 @@
 |      |  24  | More on digital audio                    | [R 11/16/17](https://github.com/BC-CSCI1103/111617) |
 |  13  |  25  | Digital images; Search problems; mazes, Eight Queens |                                          |
 |      |      | **Thanksgiving** — no class              |                                          |
-|  14  |  26  | Working with strings & text files      | [T 11/28/17](https://github.com/BC-CSCI1103/112817)                                          |
+|  14  |  26  | Working with strings & text files        | [T 11/28/17](https://github.com/BC-CSCI1103/112817) |
 |      |  27  | Working with strings and text files; applications in bioinformatics |                                          |
 |  15  |  28  | Type abstraction: making new types in OCaml and Java |                                          |
 |      |  29  | **Last Meeting** Review and wrap-up      |                                          |
