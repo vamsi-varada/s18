@@ -28,35 +28,38 @@
 
 ## Schedule
 
-| Week | Mtng | Topic                                    | Resources                                |
-| :--: | :--: | :--------------------------------------- | :--------------------------------------- |
-|  1   |  1   | Introduction and Overview                | [T 08/29/17](https://github.com/BC-CSCI1103/082917) |
-|      |  2   | Base types; literals & expressions; simplification & work; values; libraries | [R 08/31/17](https://github.com/BC-CSCI1103/083117) |
-|  2   |  3   | Names: `let` and `let-in`; function definitions and calls; replacement; implicit vs explicit types | [T 09/05/17](https://github.com/BC-CSCI1103/090517) |
-|      |  4   | More on function definitions; the graphics library | [R 09/07/17](https://github.com/BC-CSCI1103/090717) |
-|  3   |  5   | Tuples & pattern matching; record & sum types; branching; lists | [T 09/12/17](https://github.com/BC-CSCI1103/091217) |
-|      |  6   | Repetition: recursive list processing    | [R 09/14/17](https://github.com/BC-CSCI1103/091417) |
-|  4   |  7   | Working with lists; computational shapes; working with numbers, primality | [T 09/19/17](https://github.com/BC-CSCI1103/091917) |
-|      |  8   | Working with repetitive images           | [R 09/21/17](https://github.com/BC-CSCI1103/092117) |
-|  5   |  9   | Repetition: images, primality            | [T 09/26/17](https://github.com/BC-CSCI1103/092617) |
-|      |  10  | **First Exam**; Sorting: insertion sort  | [R 09/28/17](https://github.com/BC-CSCI1103/092817) |
-|  6   |  11  | More on sorting: quicksort, mergesort    | [T 10/03/17](https://github.com/BC-CSCI1103/100317) |
-|      |  12  | Animation: the model-view-update architecture; Functions are values: map; filter and fold | [R 10/05/17](https://github.com/BC-CSCI1103/100517) |
-|  7   |  13  | More on function values: function slope, Riemann sums; Dictionaries: assocation lists | [T 10/10/17](https://github.com/BC-CSCI1103/101017) |
-|      |  14  | More on Dictionaries: Binary Search Trees; The Best Candidate Algorithm | [R 10/12/17](https://github.com/BC-CSCI1103/101217) |
-|  8   |  15  | Symbols and Digital Representations; Positional Numeral Systems | [T 10/17/17](https://github.com/BC-CSCI1103/101717) |
-|      |  16  | Binary -- logic gates; a ripple-carry adder; Hexadecimal | [R 10/19/17](https://github.com/BC-CSCI1103/101917) |
-|  9   |  17  | Machines & Storage Architecture, Bytes & Words | [T 10/24/17](https://github.com/BC-CSCI1103/102417) |
-|      |  18  | SVM -- A Simple Virtual Machine          | [R 10/26/17](https://github.com/BC-CSCI1103/102617) |
-|  10  |  19  | Storage diagrams & the storage model of evaluation | [T 10/31/17](https://github.com/BC-CSCI1103/103117) |
-|      |  20  | Imperative coding in OCaml: mutable references; arrays; for-loops & while-loops | [R 11/02/17](https://github.com/BC-CSCI1103/110217) |
-|  11  |  21  | Imperative coding: for-loops & arrays    | [T 11/07/17](https://github.com/BC-CSCI1103/110717) |
-|      |  22  | **Second Exam**                          | [R 11/09/17](https://github.com/BC-CSCI1103/110917) |
-|  12  |  23  | Applications of arrays: digital audio    | [T 11/14/17](https://github.com/BC-CSCI1103/111417) |
-|      |  24  | More on digital audio                    | [R 11/16/17](https://github.com/BC-CSCI1103/111617) |
-|  13  |  25  | Digital images; Search problems; mazes, Eight Queens |                                          |
-|      |      | **Thanksgiving** — no class              |                                          |
-|  14  |  26  | Working with strings & text files        | [T 11/28/17](https://github.com/BC-CSCI1103/112817) |
-|      |  27  | Working with strings and text files; applications in bioinformatics |                                          |
-|  15  |  28  | Type abstraction: making new types in OCaml and Java |                                          |
-|      |  29  | **Last Meeting** Review and wrap-up      |                                          |
+| Week | Mtng | Topic                               | Resources      |
+| :--: | :--: | :---------------------------------- | :------------- |
+|  1   |  1   | Introduction and Overview           | [T 01/16/18]   |
+|      |  2   |                                     | [R 01/18/18]   |
+|  2   |  3   |                                     | [T 01/23/18]   |
+|      |  4   | **GUEST**                           | [R 01/25/18]   |
+|  3   |  5   |                                     | [T 01/30/18]   |
+|      |  6   |                                     | [R 02/01/18]   |
+|  4   |  7   |                                     | [T 02/06/18]   |
+|      |  8   |                                     | [R 02/08/18]   |
+|  5   |  9   |                                     | [T 02/13/18]   |
+|      |  10  | **First Exam**;                     | [R 02/15/18]   |
+|  6   |  11  |                                     | [T 02/20/18]   |
+|      |  12  |                                     | [R 02/22/18]   |
+|  7   |  13  |                                     | [T 02/27/18]   |
+|      |  14  |                                     | [R 03/01/18]   |
+|      |      | **Spring Break**                    | [T 03/06/18]   |
+|      |      | **Spring Break**                    | [R 03/08/18]() |
+|  8   |  15  |                                     | [T 03/13/18]() |
+|      |  16  |                                     | [R 03/15/18]() |
+|  9   |  17  |                                     | [T 03/20/18]() |
+|      |  18  | **Second Exam**                     | [R 03/22/18]() |
+|  10  |  19  |                                     | [T 03/27/18]() |
+|      |      | **No Class**                        | [R 03/29/18]() |
+|  11  |  20  |                                     | [T 04/03/18]() |
+|      |  21  |                                     | [R 04/05/18]() |
+|  12  |  22  |                                     | [T 04/10/18]() |
+|      |  23  |                                     | [R 04/12/18]() |
+|  13  |  24  |                                     | [T 04/17/18]() |
+|      |  25  |                                     | [R 04/19/18]() |
+|  14  |  26  |                                     | [T 04/24/18]() |
+|      |  27  |                                     | [R 04/26/18]() |
+|  15  |  28  |                                     | [T 05/01/18]() |
+|      |  29  | **Last Meeting** Review and wrap-up | [R 05/03/18]() |
+
