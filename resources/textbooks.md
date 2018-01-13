@@ -22,7 +22,7 @@ This book is available through [Amazon](http://www.amazon.com/Algorithms-4th-Rob
 
 ---
 
-<img src="./img/effective.jpg" align=left style="width:188px" />
+<img src="./img/effective.png" align=left style="width:188px" />
 
 [Effective Java (Third Edition)](http://java.sun.com/docs/books/effective/), by [Joshua Bloch](http://research.google.com/pubs/author32.html). **(Required)**
 
