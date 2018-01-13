@@ -1,12 +1,10 @@
-# CSCI Computer Science II
+# CSCI 1102 Computer Science 2
 
 ### Spring 2018
 
 ---
 
 ## Textbooks
-
----
 
 <img src="./img/algorithms.png" align=left style="height:234px; width:188px" /> 
 
@@ -18,18 +16,20 @@ This book is available through [Amazon](http://www.amazon.com/Algorithms-4th-Rob
 
 .
 
+.
 
 
 ---
 
 <img src="./img/effective.png" align=left style="width:188px" />
 
-[Effective Java (Third Edition)](http://java.sun.com/docs/books/effective/), by [Joshua Bloch](http://research.google.com/pubs/author32.html). **(Required)**
+[Effective Java (Third Edition)](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997), by Joshua Bloch. **(Required)**
 
 Every serious Java programmer should have it on their bookshelf.  The author has an excellent understanding of Java and software engineering principles in general. The book dispenses great advice on writing good Java code.
 
 Effective Java is available through [Amazon](https://www.amazon.com/Effective-Java-3rd-Joshua-Bloch/dp/0134685997) for about \$42.
 
+**NB: The third edition seems to be out of print as of Jan 2018 so go ahead and buy the second edition.**
 
 
 
