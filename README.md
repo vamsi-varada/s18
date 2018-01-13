@@ -20,7 +20,7 @@
 
 ---
 
-[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook)  —  [Piazza](https://piazza.com/class/jcdv8smgg9pzi) —  [Java SE9](https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html)
+[About](resources/about.md) —  [Textbooks](resources/textbooks.md) —  [Grading](resources/grading.md) —  [Canvas](https://bostoncollege.instructure.com/courses/1580576/gradebook)  —  [Piazza](https://piazza.com/class/jcdv8smgg9pzi) —  [Java SE9](https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html)
 
 ---
 
