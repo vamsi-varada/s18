@@ -1,4 +1,4 @@
-# CSCI 1102 Computer Science II
+# CSCI 1102 Computer Science 2
 
 ### Spring 2018
 
@@ -20,7 +20,7 @@
 
 ---
 
-[About](resources/about.md) : [Textbooks](resources/textbooks.md) : [Grading](resources/grading.md) : [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook)  : [Piazza](https://piazza.com/class/j6pep61xju0m5)
+[About](resources/about.md) : [Textbooks](resources/textbooks.md) : [Grading](resources/grading.md) : [Canvas](https://bostoncollege.instructure.com/courses/1579254/gradebook)  : [Piazza](https://piazza.com/class/j6pep61xju0m5) : [Java SE9](https://docs.oracle.com/javase/9/docs/api/index.html?overview-summary.html)
 
 ---
 
