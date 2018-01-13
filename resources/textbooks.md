@@ -16,6 +16,10 @@ Don't be fooled by the title, this excellent book is for CSCI 1102 notwithstandi
 
 This book is available through [Amazon](http://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X/ref=sr_1_1?ie=UTF8&qid=1322093778&sr=8-1) for about \$60 new, \$40 used and for rent at \$23. 
 
+.
+
+
+
 ---
 
 <img src="./img/effective.jpg" align=left style="height:234px; width:188px" />
